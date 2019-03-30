@@ -1,0 +1,4 @@
+Images/ImageStacker_set1/meanBlendedImage.ppm
+Image Resolution: 3264 x 2448
+Colour Depth: 256 for R/G/B = 24 bit Colour
+This is a blended Image.

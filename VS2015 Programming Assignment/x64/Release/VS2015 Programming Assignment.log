@@ -1,0 +1,11 @@
+﻿  Image-MODIFIED.cpp
+  imageMerge.cpp
+  main.cpp
+  WriteRead.cpp
+  Zoom.cpp
+c:\users\monke\desktop\vs2015 programming assignment\vs2015 programming assignment\zoom.cpp(25): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\monke\desktop\vs2015 programming assignment\vs2015 programming assignment\zoom.cpp(46): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+  Generating code
+  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VS2015 Programming Assignment.vcxproj -> C:\Users\monke\Desktop\VS2015 Programming Assignment\x64\Release\VS2015 Programming Assignment.exe

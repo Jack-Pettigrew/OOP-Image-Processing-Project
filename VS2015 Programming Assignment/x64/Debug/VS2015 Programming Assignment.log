@@ -1,0 +1,9 @@
+﻿  Image-MODIFIED.cpp
+  imageMerge.cpp
+  main.cpp
+  WriteRead.cpp
+  Zoom.cpp
+c:\users\monke\desktop\vs2015 programming assignment\vs2015 programming assignment\zoom.cpp(25): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\monke\desktop\vs2015 programming assignment\vs2015 programming assignment\zoom.cpp(46): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+  Generating Code...
+  VS2015 Programming Assignment.vcxproj -> C:\Users\monke\Desktop\VS2015 Programming Assignment\x64\Debug\VS2015 Programming Assignment.exe
